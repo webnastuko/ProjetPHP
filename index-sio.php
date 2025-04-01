@@ -1,1 +1,1 @@
-Ma page d'index
+echo "Ma page index"
